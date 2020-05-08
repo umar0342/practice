@@ -1,0 +1,93 @@
+.carousel-item img{
+height: 100%;
+width: 100%;
+}
+.header{
+    background-color: #f7f8fa;
+}
+.logo {
+    float: left;
+}
+.menu{
+    float: right;
+    margin-top: 26px;
+}
+.logo img{
+    width: 240px;
+}
+.menu ul li {
+display: inline-block;
+}
+.menu ul li a {
+    padding: 5px 15px;
+    color: black;
+    font-size: 14px;
+}
+.menu ul li a:hover{
+    background-color: #316dc3;
+    color:#fff;
+    border-radius: 25px;
+}
+h2.main-title{
+    text-align: center;
+    color: #3164c3;
+    margin: 20px 0;
+}
+.second-color {
+color: #8dc63f;
+}
+.helo{
+    text-align: center;
+}
+/* .container{
+    text-align: center;   
+} */
+.five {
+    color: white;
+}
+.six {
+    color:derk green
+}
+.separator{
+width: 70px;
+height: 3px;
+background-color:  #8dc63f;
+display: block;
+}
+.project p-4 border{
+    background-color: #f7f8fa;   
+}
+h2.main-title{
+    text-align: center;
+}
+.middle{
+    color:blue;
+}
+.one{
+color: white;
+}
+.container-fluid py-5 { 
+    background-color: #666666;
+
+}
+.eight{
+    color:white;
+}
+.widget dark{
+    color: white;
+}
+
+/* Footer Area Styling */
+#footer-section{
+    background-color: #25272E;
+    padding: 60px 0;
+    color: #ffffff;
+    text-align: left;
+}
+
+.content-list .fa{
+    color: #427900;
+}
+.list-unstyled content-list{
+    display: inline-block;
+}
